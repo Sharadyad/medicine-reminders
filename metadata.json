@@ -1,0 +1,6 @@
+{
+  "name": "Medicine Reminders",
+  "description": "A minimal, professional medicine reminder app that functions entirely offline and triggers timely notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
